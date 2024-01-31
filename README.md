@@ -24,7 +24,7 @@ Frontend Mentor challenges help improve my coding skills by building realistic p
 ### Links
 
 - Solution URL: [Repository](https://github.com/marcelaasilva/qr-code-component-main/)
-- Live Site URL: [GitHub Page](https://your-live-site-url.com)
+- Live Site URL: [GitHub Page][(https://your-live-site-url.com](https://marcelaasilva.github.io/qr-code-component-main/))
 
 ## My process
 
