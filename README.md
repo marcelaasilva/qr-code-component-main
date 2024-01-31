@@ -19,7 +19,7 @@ Frontend Mentor challenges help improve my coding skills by building realistic p
 
 ### Screenshot
 
-![](/images/FireShot%20Capture%20011%20-%20Frontend%20Mentor%20-%20QR%20code%20component%20-%20127.0.0.7.png)
+![]()
 
 ### Links
 
